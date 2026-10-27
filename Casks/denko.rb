@@ -1,6 +1,6 @@
 cask "denko" do
-  version "1.1.0"
-  sha256 "f5e36fabc6ed7d97d2a5c4197c06cb499d1e7c4a4f540d73933d3a7d629a7ccf"
+  version "1.2.0"
+  sha256 "c561dc414e6dd4d5f5a3a45f88662c8d2b0be29045c01569b7b659e0aeb54047"
 
   url "https://github.com/oriharu-heaven/Denko/releases/download/v#{version}/Denko-#{version}.dmg"
   name "Denko"
